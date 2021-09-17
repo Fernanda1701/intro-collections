@@ -1,7 +1,11 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">List 📋</a>
 </h1>
-<h2 align="center">Trabalhando com os pricipais métodos de List.</h2>
+<p align="center">Trabalhando com os pricipais métodos de List.</p>
+
+<h2 align="center">
+<img src="https://img.shields.io/static/v1?label=Status:&message=Completo ✅&color=32CD32&style=for-the-badge&logo=ghost"/>
+</h2>
 
 Utilizaremos métodos para a adição, remoção, cálculo de média, entre outras funcionalidades.
 Os principais métodos utilizados são:
