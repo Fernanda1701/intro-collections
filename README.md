@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">List 📋</a>
+    <a href="https://github.com/Fernanda1701/intro-collections">List 📋</a>
 </h1>
 <p align="center">Trabalhando com os pricipais métodos de List.</p>
 
