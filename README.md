@@ -30,7 +30,7 @@ IDE utilizada: [IntelliJ](https://www.jetbrains.com/pt-br/idea/).
 ## Autor:
 
 <a href="https://github.com/Fernanda1701">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/Fernanda1701" width="120px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/Fernanda1701" width="80px;" alt=""/>
  <br />
  <sub><b>Fernanda Nascimento</b></sub></a> <a href="https://github.com/Fernanda1701"></a>
 
